@@ -1,0 +1,8 @@
+
+public class Curso {
+	
+	String titulo;
+	String sala;
+	String areaConhecimento;
+
+}

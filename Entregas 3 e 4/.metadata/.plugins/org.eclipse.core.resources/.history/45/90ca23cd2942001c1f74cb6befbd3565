@@ -1,0 +1,30 @@
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Map;
+import java.util.Set;
+
+public class Escola {
+
+	public static void main(String[] args) {
+		
+		ArrayList<Aluno> alunos = new ArrayList<>();
+		ArrayList<Professor> professores = new ArrayList<>();
+		ArrayList<Curso> cursos = new ArrayList<>();
+		Map <String, Curso> mapaCurso = new HashMap();
+		Set <String> RAAlunos = new HashSet();
+		
+		
+		//Adicionar alunos
+		Aluno a1 = new Aluno("Andre", "RA-0001");
+		Aluno a2 = new Aluno("Filipe", "RA-0002");
+		Aluno a3 = new Aluno("Ana", "RA-0003");
+		Aluno a4 = new Aluno("Clara", "RA-0004");
+		
+		alunos.addAll(alunos);
+		
+		System.out.println(alunos);
+
+	}
+
+}

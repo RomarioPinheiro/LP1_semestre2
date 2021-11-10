@@ -1,0 +1,25 @@
+import java.util.ArrayList;
+
+public class AgenciaBancaria {
+
+	public static void main(String[] args) {
+		
+			ArrayList<Conta> contas = new ArrayList<>();
+			Conta c1 = new Conta(001, 200,);
+			Conta c2 = new Conta(002, 200);
+			Conta c3 = new Conta(003, 200);
+			Conta c4 = new Conta(004, 200);
+			Conta c5 = new Conta(005, 200);
+
+			contas.add(c1);
+			contas.add(c2);
+			contas.add(c3);
+			contas.add(c4);
+			contas.add(c5);
+
+		
+	
+
+	}
+
+}

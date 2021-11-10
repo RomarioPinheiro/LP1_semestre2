@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\arauj\OneDrive\Fatec - Banco de Dados\2 - Semestre\Linguagem de Programação 1\Entregas 3 e 4\.metadata\.plugins\org.eclipse.jdt.core
+3670770535.index
+1136841437.index
+2862708712.index
+885383755.index

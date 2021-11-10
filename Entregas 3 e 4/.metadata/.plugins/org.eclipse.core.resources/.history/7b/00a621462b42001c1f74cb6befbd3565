@@ -1,0 +1,16 @@
+
+public class Aluno {
+	
+	String nome;
+	String RA;
+	
+	
+	public Aluno(String nome, String rA) {
+		super();
+		this.nome = nome;
+		RA = rA;
+	}
+	
+	
+
+}

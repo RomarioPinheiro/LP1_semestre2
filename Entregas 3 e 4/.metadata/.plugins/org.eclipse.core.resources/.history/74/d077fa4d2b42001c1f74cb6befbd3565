@@ -1,0 +1,15 @@
+
+public class Professor {
+	String nome;
+	String id;
+	String areaFormacao;
+	
+	
+	public Professor(String nome, String id, String areaFormacao) {
+		super();
+		this.nome = nome;
+		this.id = id;
+		this.areaFormacao = areaFormacao;
+	}
+
+}

@@ -1,0 +1,21 @@
+
+public class Curso {
+	
+	String titulo;
+	String sala;
+	String areaConhecimento;
+	public Curso(String titulo, String sala, String areaConhecimento) {
+		super();
+		this.titulo = titulo;
+		this.sala = sala;
+		this.areaConhecimento = areaConhecimento;
+	}
+	
+	@Override
+	public String toString() {
+		return "Curso: " + titulo + ", Sala= " + sala + ", Área=" + areaConhecimento;
+	}
+	
+	
+
+}
